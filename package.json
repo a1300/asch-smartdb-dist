@@ -10,7 +10,7 @@
     "email": "eagle@asch.io"
   },
   "dependencies": {
-    "better-sqlite3": "=4.1.0",
+    "better-sqlite3": "=4.1.3",
     "json-sql": "https://github.com/AschPlatform/json-sql/tarball/v0.2.4+asch.2",
     "level": "=3.0.1",
     "level-secondary": "=1.1.1",
